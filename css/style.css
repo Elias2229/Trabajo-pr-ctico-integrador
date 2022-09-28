@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#Barra
+{
+    background-color: #343a40 !important;
+}
+
+#Boton-Verde
+{
+    color: #16da43;
+}
+
+#Tarjetas
+{
+    width: 70%;
+    margin: auto;
+}
+
+#carouselExampleCaptions
+{
+    width: 100%;
+    
+}
+
+#TextodeHonolulu
+{
+    background-color: #212529;
+
+}
+
+#Formulario
+{
+    width: 50%;
+    margin: auto;
+}
+
+#Boton
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+
+#Piedepagina
+{
+    background-color: #212f4b !important;
+    color: white;
+    font-size: 18px; 
+    padding-top: 25px;
+    height: 100px;
+    text-align:center;   
+}
+
+#spam
+{
+    color: white !important;
+}
+#spam1
+{
+    color: white !important;
+}
