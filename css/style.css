@@ -14,22 +14,9 @@
     color: #16da43;
 }
 
-#Tarjetas
+#color_junior
 {
-    width: 70%;
-    margin: auto;
-}
-
-#carouselExampleCaptions
-{
-    width: 100%;
-    
-}
-
-#TextodeHonolulu
-{
-    background-color: #212529;
-
+    color: white;
 }
 
 #Formulario
@@ -38,7 +25,12 @@
     margin: auto;
 }
 
-#Boton
+#Boton1
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+#Boton2
 {
     background-color: #76ce53 !important;
     color: white;
@@ -52,13 +44,4 @@
     padding-top: 25px;
     height: 100px;
     text-align:center;   
-}
-
-#spam
-{
-    color: white !important;
-}
-#spam1
-{
-    color: white !important;
 }
